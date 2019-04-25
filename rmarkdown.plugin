@@ -1,0 +1,12 @@
+[Core]
+Name = rmarkdown
+Module = rmarkdown
+
+[Nikola]
+PluginCategory = PageCompiler
+
+[Documentation]
+Author = Stephen Feagin
+Version = 0.0.1
+Website = https://plugins.getnikola.com/rmarkdown
+Description = Compile R Markdown into HTML
